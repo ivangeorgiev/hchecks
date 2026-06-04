@@ -1,6 +1,7 @@
 # Location(s) for storing data that should not be checked into version control, such as secrets or generated files.
 local-*/
 local.*/
+uv.lock
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
